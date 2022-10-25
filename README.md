@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @E4crypt3d
 - 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning DRF
 - 📫 reach me gohramgkb@gmail.com
