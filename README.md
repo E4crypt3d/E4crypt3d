@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Suleman KB, student and a full-time full-stack developer 👨‍💻 🚀</div>  
+### <div align="center">I'm Suleman KB, student and a full-stack Web Developer 👨‍💻 🚀</div>  
   
 
 - 🔭 I’m currently working on [Daily Quotes](https://e4crypt3d.github.io/dailyquotes/)  
