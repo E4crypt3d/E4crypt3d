@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Suleman KB, student and a full-stack Web Developer 👨‍💻 🚀</div>  
+### <div align="center">I'm Suleman KB, student and I'm learning fullstack Web Development 👨‍💻 🚀</div>  
   
 
 - 🔭 I’m currently working on [Daily Quotes](https://e4crypt3d.github.io/dailyquotes/)  
   
 
-- 🌱 I’m currently learning React  
+- 🌱 I’m currently learning Fullstack Web Development  
   
 
 - ❓ Ask me about anything related to Django - Python  
