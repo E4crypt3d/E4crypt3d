@@ -1,9 +1,5 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">I'm Suleman KB, student and I'm learning fullstack Web Development 👨‍💻 🚀</div>  
+## <div align="center">I'm Suleman KB, student and I'm learning fullstack Web Development 👨‍💻 🚀</div>  
   
 
 - 🔭 I’m currently working on [Daily Quotes](https://e4crypt3d.github.io/dailyquotes/)  
