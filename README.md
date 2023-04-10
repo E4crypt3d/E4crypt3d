@@ -2,7 +2,7 @@
 ## <div align="center">I'm Suleman KB, student and I'm learning fullstack Web Development 👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working on [Daily Quotes](https://e4crypt3d.github.io/dailyquotes/)  
+- 🔭 I’m currently working focusing Django and DRF and Django Channels.
   
 
 - 🌱 I’m currently learning Fullstack Web Development  
