@@ -1,7 +1,7 @@
 ## <div align="center">I am Suleman KB, a dedicated student and aspiring Fullstack Web Developer with a passion for Web Scraping. 👨‍💻 🚀</div>  
   
 
-- 🔭 I'm actively honing my skills and expertise in a range of technologies, including ` Django `, ` Django Rest Framework `, ` Django Channels `,` Web Scraping `, and ` React `.
+- 🔭 I'm actively honing my skills and expertise in a range of technologies, including ` Django `, ` Django Rest Framework `, ` Django Channels `, ` Web Scraping ` and ` React `.
   
 
 - 🌱 I'm currently in the process of becoming an expert in Fullstack Web Development.
