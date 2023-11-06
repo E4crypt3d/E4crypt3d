@@ -1,4 +1,4 @@
-## <div align="center">I'm Suleman KB, student and fullstack Web Development 👨‍💻 🚀</div>  
+## <div align="center">I'm Suleman KB, student, fullstack Web Development and Web Scraper 👨‍💻 🚀</div>  
   
 
 - 🔭 I’m currently working/focusing on `Django`, `Django Rest Framework`, `Django Channels`, `WEB Scraping` and `React`.
