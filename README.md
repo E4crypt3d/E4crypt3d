@@ -1,4 +1,7 @@
-# 💫 About Me:
+# E4CRYPT3D
+Hey there! I'm Suleman KB, an enthusiastic Computer Science student with an enduring passion for Python's elegant simplicity. Currently, I'm immersing myself in the expansive world of Fullstack Web Development, driven by an insatiable thirst to master every facet of this dynamic field.
+
+## 💫 About Me:
 🔭 I'm actively honing my skills and expertise in a range of technologies, including `Django`, `Django Rest Framework`, `Djago Ninja`, `Django Channels`, `Web Scraping`, `React`, `PYSIDE` and `PYQT`.<br><br>🌱 I'm currently in the process of becoming an expert in Fullstack Web Development.<br><br>❓ Ask me about anything related to Django - Python<br><br>⚡ Fun fact: I use tabs over spaces
 
 
