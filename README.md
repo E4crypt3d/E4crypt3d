@@ -61,15 +61,18 @@
 
 <div align="center">
 
-  <a href="https://github.com/E4crypt3d/OptiX"><img src="https://github-readme-stats.vercel.app/api/pin/?username=E4crypt3d&repo=OptiX&theme=tokyonight&hide_border=true" width="32%" alt="OptiX" /></a>
-  <a href="https://github.com/E4crypt3d/KeyboardSplitterNext"><img src="https://github-readme-stats.vercel.app/api/pin/?username=E4crypt3d&repo=KeyboardSplitterNext&theme=tokyonight&hide_border=true" width="32%" alt="KeyboardSplitterNext" /></a>
-  <a href="https://github.com/E4crypt3d/oh-my-qwen"><img src="https://github-readme-stats.vercel.app/api/pin/?username=E4crypt3d&repo=oh-my-qwen&theme=tokyonight&hide_border=true" width="32%" alt="oh-my-qwen" /></a>
+  <a href="https://github.com/E4crypt3d/OptiX"><img src="https://github-readme-stats.vercel.app/api/pin/?username=E4crypt3d&repo=OptiX&theme=tokyonight&hide_border=true" width="48%" alt="OptiX" /></a>
+  <a href="https://github.com/E4crypt3d/KeyboardSplitterNext"><img src="https://github-readme-stats.vercel.app/api/pin/?username=E4crypt3d&repo=KeyboardSplitterNext&theme=tokyonight&hide_border=true" width="48%" alt="KeyboardSplitterNext" /></a>
 
   <br/>
 
-  <a href="https://github.com/E4crypt3d/ezextract"><img src="https://github-readme-stats.vercel.app/api/pin/?username=E4crypt3d&repo=ezextract&theme=tokyonight&hide_border=true" width="32%" alt="ezextract" /></a>
-  <a href="https://github.com/E4crypt3d/ScrapeMyst"><img src="https://github-readme-stats.vercel.app/api/pin/?username=E4crypt3d&repo=ScrapeMyst&theme=tokyonight&hide_border=true" width="32%" alt="ScrapeMyst" /></a>
-  <a href="https://github.com/E4crypt3d/ChatME"><img src="https://github-readme-stats.vercel.app/api/pin/?username=E4crypt3d&repo=ChatME&theme=tokyonight&hide_border=true" width="32%" alt="ChatME" /></a>
+  <a href="https://github.com/E4crypt3d/oh-my-qwen"><img src="https://github-readme-stats.vercel.app/api/pin/?username=E4crypt3d&repo=oh-my-qwen&theme=tokyonight&hide_border=true" width="48%" alt="oh-my-qwen" /></a>
+  <a href="https://github.com/E4crypt3d/ezextract"><img src="https://github-readme-stats.vercel.app/api/pin/?username=E4crypt3d&repo=ezextract&theme=tokyonight&hide_border=true" width="48%" alt="ezextract" /></a>
+
+  <br/>
+
+  <a href="https://github.com/E4crypt3d/ScrapeMyst"><img src="https://github-readme-stats.vercel.app/api/pin/?username=E4crypt3d&repo=ScrapeMyst&theme=tokyonight&hide_border=true" width="48%" alt="ScrapeMyst" /></a>
+  <a href="https://github.com/E4crypt3d/ChatME"><img src="https://github-readme-stats.vercel.app/api/pin/?username=E4crypt3d&repo=ChatME&theme=tokyonight&hide_border=true" width="48%" alt="ChatME" /></a>
 
   <br/><br/>
 
