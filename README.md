@@ -1,12 +1,12 @@
 <div align="center">
 
-  <img src="./assets/banner.svg" alt="E4crypt3d — backend, systems and automation" width="100%" />
+  <img src="./assets/banner.svg" alt="E4crypt3d" width="100%" />
 
   <br/>
 
-  <h3>Building practical tools in <code>Python</code>, <code>Rust</code> and <code>TypeScript</code>.</h3>
+  <h3>I build web apps, desktop tools, and more scrapers than I'd like to admit.</h3>
 
-  <p>Backend systems, desktop tooling and scraping infrastructure — shipped, not just started.</p>
+  <p>Python is where I'm fastest. Rust is what I reach for when something has to be fast or talk to Windows. TypeScript shows up whenever there's an interface to build. Past that, I'll use whatever the job actually calls for.</p>
 
   <p>
     <img src="https://img.shields.io/badge/Public_Repos-36-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Public repos" />
@@ -20,19 +20,21 @@
 
 ## About
 
-Most of what I build starts as a small annoyance and ends up as a tool other people use.
+Most of what I build starts as something that annoyed me. A Windows tuning tool, because the ones I found wanted a lot of trust for very little control. A scraper, because doing the same thing by hand every week was miserable. Sometimes the answer is a Django app. Sometimes it's Rust and Tauri. Occasionally it's a script I'll never open again.
 
-- **Backend** — Django, Channels, Celery, Flask, Fastify and SQLAlchemy. Real auth, real migrations, real load.
-- **Desktop & systems** — Rust + Tauri apps that talk to Win32 directly: Raw Input, ViGEmBus, system APIs.
-- **Scraping & automation** — `httpx` with automatic Playwright fallback, pagination, rate limiting and structured exports.
+The work mostly lands in a few places:
 
-Right now I'm going deeper on async Rust and LLM agent tooling.
+- Web backends. Django usually, with Channels or Celery once things need to be real-time or scheduled. Some Flask, some Fastify when Node is the better fit.
+- Windows desktop apps in Rust and Tauri, often touching Raw Input, ViGEmBus, or other parts of the OS that were never meant to be scripted.
+- Scrapers and data pipelines that have to keep working on sites actively trying to stop them.
+
+Lately I've been spending time on async Rust and agent tooling, mostly because both are hard in ways I find interesting.
 
 Tabs over spaces.
 
 ---
 
-## Featured work
+## Selected projects
 
 <div align="center">
 
@@ -51,7 +53,7 @@ Tabs over spaces.
 
   <br/><br/>
 
-  <a href="https://github.com/E4crypt3d?tab=repositories"><b>Browse all 36 public repositories →</b></a>
+  <a href="https://github.com/E4crypt3d?tab=repositories">The rest of them are here</a>
 
 </div>
 
@@ -65,8 +67,10 @@ Tabs over spaces.
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **Backend**
 
@@ -129,10 +133,10 @@ Tabs over spaces.
 
 ---
 
-## Contact
+## Say hello
 
-- ⭐ **Star** a repo if it saved you time
-- 🐛 **Open an issue** — bugs and feature requests welcome
-- 🍴 **Fork** it and build something better
+If something here saved you time, a star goes a long way. If it broke, open an issue and I'll take a look. If you want to build on it, fork it and go.
 
-<sub>E4crypt3d — tabs over spaces, always.</sub>
+No newsletter, I promise.
+
+<sub>E4crypt3d. Tabs over spaces.</sub>
