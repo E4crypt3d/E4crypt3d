@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "name": "OptiX",
+      "description": "Windows & Linux gaming-performance and system-recovery utility with full snapshot / rollback semantics.",
+      "url": "https://github.com/E4crypt3d/OptiX",
+      "color": "purple",
+      "icon": "shield"
+    },
+    {
+      "name": "KeyboardSplitterNext",
+      "description": "Turns multiple physical keyboards into independent virtual Xbox 360 controllers via Raw Input + ViGEmBus.",
+      "url": "https://github.com/E4crypt3d/KeyboardSplitterNext",
+      "color": "blue",
+      "icon": "device-gamepad"
+    },
+    {
+      "name": "oh-my-qwen",
+      "description": "12 specialized subagents and 8 orchestration skills for the Qwen Code CLI - no API key required.",
+      "url": "https://github.com/E4crypt3d/oh-my-qwen",
+      "color": "green",
+      "icon": "hubot"
+    },
+    {
+      "name": "ezextract",
+      "description": "Practical Python scraper with automatic Playwright fallback, smart pagination and structured exports.",
+      "url": "https://github.com/E4crypt3d/ezextract",
+      "color": "orange",
+      "icon": "search"
+    },
+    {
+      "name": "ScrapeMyst",
+      "description": "A lean, human-like stealth wrapper for Python requests - rotation, proxies and randomised delays.",
+      "url": "https://github.com/E4crypt3d/ScrapeMyst",
+      "color": "yellow",
+      "icon": "shield-lock"
+    },
+    {
+      "name": "ChatME",
+      "description": "Terminal AI roleplay engine with multi-provider support and automatic memory consolidation.",
+      "url": "https://github.com/E4crypt3d/ChatME",
+      "color": "pink",
+      "icon": "comment-discussion"
+    }
+  ]
+}
