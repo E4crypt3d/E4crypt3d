@@ -6,15 +6,11 @@
 
   <h3>Building practical tools in <code>Python</code>, <code>Rust</code> and <code>TypeScript</code>.</h3>
 
-  <p>
-    Backend systems, desktop tooling and scraping infrastructure — shipped, not just started.
-  </p>
+  <p>Backend systems, desktop tooling and scraping infrastructure — shipped, not just started.</p>
 
   <p>
     <img src="https://img.shields.io/badge/Public_Repos-36-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Public repos" />
     <img src="https://img.shields.io/badge/Stars-198-22D3EE?style=for-the-badge&logo=star&logoColor=white" alt="Stars" />
-    <img src="https://img.shields.io/badge/Forks-12-8B5CF6?style=for-the-badge&logo=git-fork&logoColor=white" alt="Forks" />
-    <img src="https://img.shields.io/badge/Followers-112-22D3EE?style=for-the-badge&logo=people-group&logoColor=white" alt="Followers" />
     <img src="https://img.shields.io/badge/Since-2020-8B5CF6?style=for-the-badge&logo=calendar&logoColor=white" alt="Since 2020" />
   </p>
 
@@ -22,42 +18,21 @@
 
 ---
 
-## 👋 About
+## About
 
-<table>
-<tr>
-<td width="52%" valign="top">
+Most of what I build starts as a small annoyance and ends up as a tool other people use.
 
-### 🔧 What I build
+- **Backend** — Django, Channels, Celery, Flask, Fastify and SQLAlchemy. Real auth, real migrations, real load.
+- **Desktop & systems** — Rust + Tauri apps that talk to Win32 directly: Raw Input, ViGEmBus, system APIs.
+- **Scraping & automation** — `httpx` with automatic Playwright fallback, pagination, rate limiting and structured exports.
 
-- **Backend systems** — Django, Django Channels, Celery, Flask, Fastify and SQLAlchemy services built for real traffic, not toy CRUD.
-- **Desktop & system tooling** — Rust + Tauri apps that talk to Win32 APIs directly (Raw Input, ViGEmBus, `sysinfo`), with CI and signed installers.
-- **Scraping & automation** — resilient collectors using `httpx` with automatic Playwright fallback, rate limiting, parallel fetches and structured exports.
-- **Real-time** — WebSocket servers, Twisted/Autobahn stacks and Redis-backed channel layers.
-- **AI tooling** — LLM clients with provider fallbacks, memory consolidation and agent orchestration.
+Right now I'm going deeper on async Rust and LLM agent tooling.
 
-</td>
-<td width="48%" valign="top">
-
-### 🌱 Currently
-
-- Sharpening a **Rust + Tauri** utility for Windows system tuning with full snapshot / rollback semantics.
-- Going deeper on **async systems programming** — Tokio, channels, structured concurrency.
-- Exploring **LLM agent orchestration** and MCP-integrated developer tooling.
-- Shipping smaller, sharper tools instead of heavier frameworks.
-
-### 💭 Off the clock
-
-- Tabs > spaces. Always.
-- Ask me about Django, Python, or why something needs a rollback button.
-
-</td>
-</tr>
-</table>
+Tabs over spaces.
 
 ---
 
-## 🚀 Featured Work
+## Featured work
 
 <div align="center">
 
@@ -82,7 +57,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Stack
 
 **Languages**
 
@@ -111,7 +86,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Jinja](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white)
 
-**Systems & Desktop**
+**Systems**
 
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -119,7 +94,7 @@
 ![Tokio](https://img.shields.io/badge/Tokio-1B1F2A?style=for-the-badge&logo=rust&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-**Data, AI & Tooling**
+**Data & tooling**
 
 ![httpx](https://img.shields.io/badge/httpx-0F172A?style=for-the-badge&logo=python&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2E333C?style=for-the-badge&logo=playwright&logoColor=white)
@@ -131,7 +106,7 @@
 
 ---
 
-## 📊 Stats
+## Stats
 
 <div align="center">
 
@@ -142,11 +117,7 @@
 
   <img src="https://streak-stats.demolab.com?user=E4crypt3d&theme=tokyonight&hide_border=true" height="180" alt="Contribution streak" />
 
-</div>
-
-<br/>
-
-<div align="center">
+  <br/>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/E4crypt3d/E4crypt3d/output/github-contribution-grid-snake-dark.svg" />
@@ -158,29 +129,10 @@
 
 ---
 
-## 💬 Let's Connect
+## Contact
 
-<div align="center">
+- ⭐ **Star** a repo if it saved you time
+- 🐛 **Open an issue** — bugs and feature requests welcome
+- 🍴 **Fork** it and build something better
 
-Found something useful, spotted a bug, or want a feature?
-
-</div>
-
-- ⭐ **Star** a repo if it saved you some time.
-- 🐛 **Open an issue** — bug reports and feature requests are always welcome.
-- 🍴 **Fork** it and build something better.
-- 👀 **Follow** for new releases and experiments.
-
-<br/>
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/GitHub-E4crypt3d-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20Rust%20%7C%20TypeScript-22D3EE?style=for-the-badge&logo=code&logoColor=white" alt="Stack" />
-  <img src="https://img.shields.io/badge/Made_with-%E2%9D%A4%EF%B8%8F-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Made with love" />
-
-  <br/><br/>
-
-  <sub>Built by <a href="https://github.com/E4crypt3d">E4crypt3d</a> — <i>tabs over spaces, always.</i></sub>
-
-</div>
+<sub>E4crypt3d — tabs over spaces, always.</sub>
