@@ -146,9 +146,9 @@
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/E4crypt3d/E4crypt3d/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/E4crypt3d/E4crypt3d/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake animation" src="https://github.com/E4crypt3d/E4crypt3d/blob/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/E4crypt3d/E4crypt3d/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/E4crypt3d/E4crypt3d/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/E4crypt3d/E4crypt3d/output/github-contribution-grid-snake.svg" />
   </picture>
 
 </div>
